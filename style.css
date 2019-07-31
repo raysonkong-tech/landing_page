@@ -36,3 +36,8 @@ hr {
 	border-width: 5px;
 	border-color: red;
 }
+
+.btn a {
+	color: white;
+	text-decoration: none;
+}
