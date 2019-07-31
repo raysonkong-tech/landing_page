@@ -18,7 +18,9 @@
           <hr>
         </div>
         <div class="col-lg-12">
-          <button type="button" class="btn btn-primary">Primary</button>
+          <button type="button" class="btn btn-primary">
+            <a href="http://www.google.com">Google Form</a>
+          </button>
 
 
         </div>
